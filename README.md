@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk](https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk)
 
-- ⚡ Fun fact **I THINK I AM INTELIGENT BUT LITTLE BIT LAZY😅😅😁👍😉🤞**
+- ⚡ Fun fact **I fear dogs🐶, and I love cats😺😻, I THINK I AM INTELIGENT BUT LITTLE BIT LAZY😅😅😁👍😉🤞**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
