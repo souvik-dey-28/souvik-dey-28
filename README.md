@@ -14,7 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -60,3 +59,4 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-dey-28&show_icons=true&locale=en" alt="souvik-dey-28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-dey-28&" alt="souvik-dey-28" /></p>
+
