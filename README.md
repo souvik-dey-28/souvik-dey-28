@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/souvikd07705410" target="blank"><img src="https://img.shields.io/twitter/follow/souvikd07705410?logo=twitter&style=for-the-badge" alt="souvikd07705410" /></a> </p>
+<p align="left"> <a href="https://twitter.com/souvikd07705410" target="blank"><img src="https://img.shields.io/twitter/follow/souvikDey28?logo=twitter&style=for-the-badge" alt="souvikDey28" /></a> </p>
 
 - 🔭 I’m currently working on [ECOMMERCE WEBSITE](https://souvik-dey-28.github.io/ecommerce-website/)
 
