@@ -62,3 +62,13 @@ Here are some ideas to get you started:
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-dey-28&" alt="souvik-dey-28" /></p>
 
+
+
+
+<br clear="both">
+
+
+<img src = "https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/output/snake.svg" alt= "sanke animation">
+
+
+###
