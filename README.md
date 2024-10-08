@@ -26,6 +26,10 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix" alt="souvik-dey-28" /></a> </p>
+
+
+
 <p align="left"> <a href="https://x.com/SouvikDey28?t=O62RjkHLtDgdKh8I4_Z4oA&s=09" alt="souvikDey28" /></a> </p>
 
 - 🔭 I’m currently working on [ECOMMERCE WEBSITE](https://souvik-dey-28.github.io/ecommerce-website/)
