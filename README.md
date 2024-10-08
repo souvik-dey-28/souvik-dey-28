@@ -20,9 +20,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
-<img align="right" alt="coding" width="498" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p>
+
+
+
+<img align="right" alt="coding" width="400" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=matrix&row=2&column=3" alt="souvik-dey-28" /></a> </p>
 
 
 
@@ -34,9 +38,6 @@ Here are some ideas to get you started:
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=matrix&row=2&column=3" alt="souvik-dey-28" /></a> </p>
 -->
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=matrix&row=2&column=3" alt="souvik-dey-28" /></a> </p>
-
 
 
 <p align="left"> <a href="https://x.com/SouvikDey28?t=O62RjkHLtDgdKh8I4_Z4oA&s=09" alt="souvikDey28" /></a> </p>
