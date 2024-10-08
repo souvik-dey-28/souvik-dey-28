@@ -1,5 +1,5 @@
 
-[![An image of @souvikdey28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikdey28)](https://holopin.io/@souvikdey28)
+[![An image of @souvikdey28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikdey28)](https://holopin.io/@souvik2812)
 
 ### Hi there 👋
 
