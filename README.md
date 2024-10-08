@@ -256,6 +256,7 @@ Here are some ideas to get you started:
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-dey-28&show_icons=true&locale=en" alt="souvik-dey-28" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-dey-28&" alt="souvik-dey-28" /></p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=matrix&row=2&column=3" alt="souvik-dey-28" /></a> </p>
 
 
 <!--
@@ -506,7 +507,7 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=souvik-dey-28)](https://github.com/ryo-ma/github-profile-trophy)
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=matrix&row=2&column=3" alt="souvik-dey-28" /></a> </p>
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-dey-28)](https://github.com/anuraghazra/github-readme-stats)
 
