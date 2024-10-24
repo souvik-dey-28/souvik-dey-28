@@ -525,5 +525,3 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=souvik-dey-28)  
 -->
-
--->
