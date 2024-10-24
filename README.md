@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
@@ -526,3 +526,4 @@ Skills: VUE JS / REACT / JS / HTML / CSS
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=souvik-dey-28)  
 -->
 
+-->
