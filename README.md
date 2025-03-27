@@ -64,7 +64,7 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-   <a href="https://www.youtube.com/@learnhackingcodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="learnhackingcodes" height="30" width="40" /></a>
+   <a href="https://www.youtube.com/@souvikdeycodes" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="souvikdeycodes" height="30" width="40" /></a>
 <a href="https://twitter.com/souvikd07705410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SouvikDey28" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/souvik-dey-75892b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-dey-75892b260" height="30" width="40" /></a>
 <a href="https://instagram.com/souvik_dey_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_dey_28/" height="30" width="40" /></a>
@@ -447,7 +447,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="left">
-  <a href="https://www.youtube.com/@learnhackingcodes" target="_blank">
+  <a href="https://www.youtube.com/@souvikdeycodes" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
   <a href="https://www.instagram.com/souvik_dey_28?igsh=MXE4czE0NngxNXA0aw==" target="_blank">
