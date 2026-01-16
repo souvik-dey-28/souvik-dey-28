@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p> -->
 
-<p align="left"> <a href="https://x.com/SouvikDey28?t=O62RjkHLtDgdKh8I4_Z4oA&s=09" alt="souvikDey28" /></a> </p>
+ <p align="left"> <a href="https://x.com/SouvikDey28?t=O62RjkHLtDgdKh8I4_Z4oA&s=09" alt="souvikDey28" /></a> </p>
 
 - 🔭 I’m currently working on [ECOMMERCE WEBSITE](https://souvik-dey-28.github.io/ecommerce-website/)
 
@@ -54,11 +54,11 @@ Here are some ideas to get you started:
 
 ### A passionate developer
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p> -->
 
 <!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p> -->
 
-- 📫 How to reach me **deysouvik123456@gmail.com**
+- 📫 How to reach me **deysouvik123456@gmail.com**  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
