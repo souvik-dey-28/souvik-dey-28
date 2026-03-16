@@ -1,14 +1,72 @@
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<p align="right">
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" 
+         alt="souvik-dey-28 trophies" 
+         width="400" 
+         align="right" />
+  </a>
+</p>
+
+- 🔭 I’m currently working on **Desktop Apps** 💻
+- 🌱 I’m currently learning **.NET Framework** 🚀
+- 👯 I’m looking to collaborate on **Development Projects** 🤝
+- 🤔 I’m looking for help with **Open Source Contributions** 🌐
+- 💬 Ask me about **Code and Software Development** 🗣️
+- 📫 How to reach me: [**Visit my Website**](https://your-website.com) 🌍
+- 😄 Pronouns: **He / Him** 👦
+- ⚡ Fun fact: **I absolutely love cats!** 🐈🐾
+
+<br clear="right"/>
+
+
+<!--
+<table>
+  <tr>
+    <td valign="top" width="60%">
+
+### Hello World! 👋
+- 🔭 I’m currently working on **Desktop Apps**
+- 🌱 I’m currently learning **.NET**
+- 👯 I’m looking to collaborate on **Dev projects**
+- 🤔 I’m looking for help with **Open Source**
+- 💬 Ask me about **Code and Developing**
+- 📫 How to reach me: [My Website](https://your-website.com)
+- 😄 Pronouns: **He/Him**
+- ⚡ Fun fact: **I love cats** 🐈
+
+    </td>
+    <td valign="top" align="right" width="40%">
+      <a href="https://github.com">
+        <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" alt="trophy" style="max-width: 100%;" />
+      </a>
+    </td>
+  </tr>
+</table>  -->
+
+
+
+<!--
+https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=light
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15)](https://github.com)
+
+
+- <p align="right">
+  <a href="https://github.com">
+    <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" alt="trophy" width="100%" style="max-width: 420px;" />
+  </a>
+</p>
+
+
 -->
+
+
+
+  
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">A passionate frontend developer from India.</h3>
 
