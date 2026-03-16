@@ -1,4 +1,6 @@
 
+[![An image of @souvikdey28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikdey28)](https://holopin.io/@souvikdey28)
+
 <p align="right">
   <a href="https://github.com">
     <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" 
