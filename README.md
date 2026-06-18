@@ -27,6 +27,8 @@
 https://souvik28.netlify.app/
 
 
+souvikdey-cyber-portfolio.lovable.app
+
 <table>
   <tr>
     <td valign="top" width="60%">
