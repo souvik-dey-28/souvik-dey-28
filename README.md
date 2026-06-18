@@ -15,7 +15,7 @@
 - 👯 I’m looking to collaborate on **Development Projects** 🤝
 - 🤔 I’m looking for help with **Open Source Contributions** 🌐
 - 💬 Ask me about **Code and Software Development** 🗣️
-- 📫 How to reach me: [**Visit my Website**](https://souvik28.netlify.app/) 🌍
+- 📫 How to reach me: [**Visit my Website**](https://souvikdey.vercel.app/) 🌍
 - 😄 Pronouns: **He / Him** 👦
 - ⚡ Fun fact: **I absolutely love cats!** 🐈🐾
 
@@ -23,6 +23,10 @@
 
 
 <!--
+
+https://souvik28.netlify.app/
+
+
 <table>
   <tr>
     <td valign="top" width="60%">
