@@ -1,0 +1,72 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 50" width="100%" height="50">
+  <defs>
+    <linearGradient id="terminalGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#00f5d4" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .terminal-box {
+      font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
+      font-size: 16px;
+      font-weight: 600;
+    }
+    .cursor {
+      animation: blink 0.9s infinite;
+      fill: #00f5d4;
+    }
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    .line-1 { animation: cycleText1 16s infinite; }
+    .line-2 { animation: cycleText2 16s infinite; }
+    .line-3 { animation: cycleText3 16s infinite; }
+    .line-4 { animation: cycleText4 16s infinite; }
+
+    @keyframes cycleText1 {
+      0%, 20% { opacity: 1; transform: translateY(0); }
+      24%, 100% { opacity: 0; transform: translateY(-5px); }
+    }
+    @keyframes cycleText2 {
+      0%, 24% { opacity: 0; transform: translateY(5px); }
+      26%, 46% { opacity: 1; transform: translateY(0); }
+      50%, 100% { opacity: 0; transform: translateY(-5px); }
+    }
+    @keyframes cycleText3 {
+      0%, 49% { opacity: 0; transform: translateY(5px); }
+      51%, 71% { opacity: 1; transform: translateY(0); }
+      75%, 100% { opacity: 0; transform: translateY(-5px); }
+    }
+    @keyframes cycleText4 {
+      0%, 74% { opacity: 0; transform: translateY(5px); }
+      76%, 96% { opacity: 1; transform: translateY(0); }
+      100% { opacity: 0; transform: translateY(-5px); }
+    }
+  </style>
+
+  <rect width="698" height="48" x="1" y="1" rx="8" fill="#03071e" fill-opacity="0.85" stroke="#0284c7" stroke-width="1.2" stroke-opacity="0.6" />
+  
+  <!-- Terminal Prompt Symbol -->
+  <text x="20" y="31" class="terminal-box" fill="#00f5d4">&gt; </text>
+
+  <!-- Animated Text Lines -->
+  <g class="terminal-box" fill="#e2e8f0" transform="translate(45, 31)">
+    <g class="line-1">
+      <text x="0" y="0">⚡ Full-Stack Web &amp; Software Developer</text>
+    </g>
+    <g class="line-2">
+      <text x="0" y="0">⚛️ React.js &amp; Modern Frontend Craftsman</text>
+    </g>
+    <g class="line-3">
+      <text x="0" y="0">🛠️ Scalable Node.js, Express &amp; RESTful APIs</text>
+    </g>
+    <g class="line-4">
+      <text x="0" y="0">🌐 Building Responsive, Intuitive Digital Products</text>
+    </g>
+  </g>
+
+  <!-- Blinking Cursor -->
+  <rect x="520" y="17" width="9" height="18" rx="2" class="cursor" />
+</svg>

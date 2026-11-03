@@ -1,0 +1,125 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1128">
+        <animate attributeName="stop-color" values="#0a1128;#001f54;#034078;#0a1128" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#001845">
+        <animate attributeName="stop-color" values="#001845;#023e8a;#0077b6;#001845" dur="8s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#03045e">
+        <animate attributeName="stop-color" values="#03045e;#0096c7;#00b4d8;#03045e" dur="8s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" />
+      <stop offset="50%" stop-color="#00bbf9" />
+      <stop offset="100%" stop-color="#fee440" />
+    </linearGradient>
+
+    <linearGradient id="strokeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#00b4d8" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#7209b7" stop-opacity="0.3" />
+      <stop offset="100%" stop-color="#48cae4" stop-opacity="0.9" />
+    </linearGradient>
+
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <filter id="subtleGlow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-weight: 900;
+      font-size: 46px;
+      letter-spacing: 4px;
+      fill: url(#textGrad);
+    }
+    .subtitle {
+      font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
+      font-size: 16px;
+      fill: #e0f2fe;
+      letter-spacing: 2px;
+    }
+    .badge {
+      font-family: 'Fira Code', Consolas, Monaco, monospace;
+      font-size: 13px;
+      fill: #38bdf8;
+      font-weight: 600;
+    }
+    .grid-line {
+      stroke: #0284c7;
+      stroke-opacity: 0.15;
+      stroke-width: 1;
+    }
+    .pulse-dot {
+      animation: pulse 2s infinite ease-in-out;
+    }
+    @keyframes pulse {
+      0%, 100% { opacity: 0.3; transform: scale(1); }
+      50% { opacity: 1; transform: scale(1.3); }
+    }
+    .wave-path {
+      animation: waveMove 6s ease-in-out infinite alternate;
+    }
+    @keyframes waveMove {
+      0% { transform: translateY(0px); }
+      100% { transform: translateY(-8px); }
+    }
+  </style>
+
+  <!-- Background Canvas -->
+  <rect width="850" height="220" rx="16" fill="url(#bgGrad)" />
+  <rect width="848" height="218" x="1" y="1" rx="15" fill="none" stroke="url(#strokeGrad)" stroke-width="2" />
+
+  <!-- Background Tech Grid Lines -->
+  <line x1="50" y1="0" x2="50" y2="220" class="grid-line" />
+  <line x1="150" y1="0" x2="150" y2="220" class="grid-line" />
+  <line x1="700" y1="0" x2="700" y2="220" class="grid-line" />
+  <line x1="800" y1="0" x2="800" y2="220" class="grid-line" />
+  <line x1="0" y1="50" x2="850" y2="50" class="grid-line" />
+  <line x1="0" y1="170" x2="850" y2="170" class="grid-line" />
+
+  <!-- Animated Wave Floor -->
+  <g class="wave-path">
+    <path d="M0,190 C150,165 300,215 450,185 C600,155 720,205 850,180 L850,220 L0,220 Z" fill="#00b4d8" fill-opacity="0.18" />
+    <path d="M0,200 C200,180 400,215 600,195 C750,180 800,210 850,195 L850,220 L0,220 Z" fill="#0077b6" fill-opacity="0.3" />
+  </g>
+
+  <!-- Decorative Orbit Dots -->
+  <circle cx="90" cy="50" r="3" fill="#00f5d4" class="pulse-dot" />
+  <circle cx="760" cy="170" r="4" fill="#fee440" class="pulse-dot" style="animation-delay: 1s;" />
+  <circle cx="730" cy="65" r="3" fill="#38bdf8" class="pulse-dot" style="animation-delay: 0.5s;" />
+
+  <!-- Top Status Badge Pill -->
+  <g transform="translate(325, 25)">
+    <rect width="200" height="26" rx="13" fill="#03045e" fill-opacity="0.7" stroke="#00b4d8" stroke-width="1" />
+    <circle cx="16" cy="13" r="4" fill="#00f5d4">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="30" y="17" class="badge">OPEN TO WORK &amp; COLLAB</text>
+  </g>
+
+  <!-- Center Titles -->
+  <g text-anchor="middle">
+    <!-- Main Name -->
+    <text x="425" y="115" class="title" filter="url(#glow)">SOUVIK DEY</text>
+    
+    <!-- Subtitle -->
+    <text x="425" y="152" class="subtitle" filter="url(#subtleGlow)">&lt; Full-Stack Web Developer &amp; Software Engineer /&gt;</text>
+  </g>
+</svg>
