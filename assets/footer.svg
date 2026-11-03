@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="100%" height="120">
+  <defs>
+    <linearGradient id="footerBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020c1b" />
+      <stop offset="50%" stop-color="#0f2b46" />
+      <stop offset="100%" stop-color="#0a192f" />
+    </linearGradient>
+
+    <linearGradient id="footerWave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077b6" />
+      <stop offset="50%" stop-color="#00f5d4" />
+      <stop offset="100%" stop-color="#03045e" />
+    </linearGradient>
+
+    <linearGradient id="footerWave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="120" fill="url(#footerBg)" rx="14" />
+
+  <!-- Animated Inverted Wave 1 -->
+  <path fill="url(#footerWave1)" opacity="0.6">
+    <animate
+      attributeName="d"
+      dur="7s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      values="
+        M0,0 L1000,0 L1000,45 C850,85 700,20 500,60 C300,100 150,30 0,65 Z;
+        M0,0 L1000,0 L1000,65 C800,25 650,90 450,45 C250,10 100,75 0,40 Z;
+        M0,0 L1000,0 L1000,45 C850,85 700,20 500,60 C300,100 150,30 0,65 Z
+      "
+    />
+  </path>
+
+  <!-- Animated Inverted Wave 2 -->
+  <path fill="url(#footerWave2)" opacity="0.5">
+    <animate
+      attributeName="d"
+      dur="5s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      values="
+        M0,0 L1000,0 L1000,30 C800,60 600,15 400,45 C200,75 100,20 0,40 Z;
+        M0,0 L1000,0 L1000,50 C850,20 650,70 450,30 C250,60 100,35 0,55 Z;
+        M0,0 L1000,0 L1000,30 C800,60 600,15 400,45 C200,75 100,20 0,40 Z
+      "
+    />
+  </path>
+</svg>

@@ -1,14 +1,16 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. ANIMATED HEADER WAVE BANNER                                            -->
+<!-- 1. VIBRANT ANIMATED HEADER WAVE BANNER (Self-Hosted SVG, 100% Reliable)   -->
 <!-- ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20Frontend%20%26%20Software%20Engineer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
+<a href="https://github.com/souvik-dey-28">
+  <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/header.svg" width="100%" alt="Souvik Dey Header Banner" />
+</a>
 
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 2. TYPING ANIMATION (Self-Hosted Animated Ticker SVG, 100% Reliable)      -->
+<!-- 2. TYPING ANIMATION TICKER (Self-Hosted Animated SVG, 100% Reliable)      -->
 <!-- ========================================================================= -->
 <a href="https://github.com/souvik-dey-28">
   <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/typing.svg" width="100%" alt="Typing Animation" />
@@ -17,7 +19,7 @@
 <br/><br/>
 
 <!-- ========================================================================= -->
-<!-- 3. VERIFIED BADGES & SOCIAL LINKS (100% Reliable via Shields.io & Holopin) -->
+<!-- 3. VERIFIED BADGES & SOCIAL LINKS (High Uptime via Shields.io & Holopin)  -->
 <!-- ========================================================================= -->
 <a href="https://holopin.io/@souvikdey28" target="_blank">
   <img src="https://holopin.me/souvikdey28" alt="Souvik Dey Holopin Badges" height="110" />
@@ -281,8 +283,10 @@ Always open to discussing software engineering opportunities, open-source projec
 <br/><br/>
 
 <!-- ========================================================================= -->
-<!-- ANIMATED FOOTER WAVE BANNER                                               -->
+<!-- ANIMATED FOOTER WAVE BANNER (Self-Hosted SVG, 100% Reliable)              -->
 <!-- ========================================================================= -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=120&section=footer" width="100%" alt="Footer Banner" />
+<a href="https://github.com/souvik-dey-28">
+  <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/footer.svg" width="100%" alt="Footer Wave Banner" />
+</a>
 
 </div>

@@ -1,125 +1,172 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 220" width="100%" height="220">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
   <defs>
-    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a1128">
-        <animate attributeName="stop-color" values="#0a1128;#001f54;#034078;#0a1128" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="50%" stop-color="#001845">
-        <animate attributeName="stop-color" values="#001845;#023e8a;#0077b6;#001845" dur="8s" repeatCount="indefinite" />
-      </stop>
-      <stop offset="100%" stop-color="#03045e">
-        <animate attributeName="stop-color" values="#03045e;#0096c7;#00b4d8;#03045e" dur="8s" repeatCount="indefinite" />
-      </stop>
+    <!-- Background Gradient -->
+    <linearGradient id="deepSpaceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a192f" />
+      <stop offset="40%" stop-color="#0f2b46" />
+      <stop offset="80%" stop-color="#112240" />
+      <stop offset="100%" stop-color="#020c1b" />
     </linearGradient>
 
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f5d4" />
-      <stop offset="50%" stop-color="#00bbf9" />
-      <stop offset="100%" stop-color="#fee440" />
+    <!-- Wave Layer 1 Gradient (Deep Teal / Blue) -->
+    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0077b6" />
+      <stop offset="50%" stop-color="#0096c7" />
+      <stop offset="100%" stop-color="#03045e" />
     </linearGradient>
 
-    <linearGradient id="strokeGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#00b4d8" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#7209b7" stop-opacity="0.3" />
-      <stop offset="100%" stop-color="#48cae4" stop-opacity="0.9" />
+    <!-- Wave Layer 2 Gradient (Vibrant Cyan / Electric Blue) -->
+    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4d8" />
+      <stop offset="50%" stop-color="#00f5d4" />
+      <stop offset="100%" stop-color="#48cae4" />
     </linearGradient>
 
-    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="6" result="blur" />
+    <!-- Wave Layer 3 Gradient (Neon Aqua Highlights) -->
+    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#70e000" stop-opacity="0.7" />
+      <stop offset="100%" stop-color="#00b4d8" stop-opacity="0.8" />
+    </linearGradient>
+
+    <!-- Glowing Text Gradient -->
+    <linearGradient id="titleTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff" />
+      <stop offset="35%" stop-color="#00f5d4" />
+      <stop offset="70%" stop-color="#38bdf8" />
+      <stop offset="100%" stop-color="#ffffff" />
+    </linearGradient>
+
+    <!-- Neon Glow Filter -->
+    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="8" result="blur1" />
+      <feGaussianBlur stdDeviation="3" result="blur2" />
       <feMerge>
-        <feMergeNode in="blur" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
-    </filter>
-
-    <filter id="subtleGlow">
-      <feGaussianBlur stdDeviation="2" result="blur" />
-      <feMerge>
-        <feMergeNode in="blur" />
+        <feMergeNode in="blur1" />
+        <feMergeNode in="blur2" />
         <feMergeNode in="SourceGraphic" />
       </feMerge>
     </filter>
   </defs>
 
   <style>
-    .title {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+    .name-title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
+      font-size: 56px;
       font-weight: 900;
-      font-size: 46px;
-      letter-spacing: 4px;
-      fill: url(#textGrad);
+      letter-spacing: 6px;
+      fill: url(#titleTextGrad);
+      text-anchor: middle;
     }
-    .subtitle {
-      font-family: 'Fira Code', Consolas, Monaco, 'Courier New', monospace;
-      font-size: 16px;
-      fill: #e0f2fe;
+    .role-subtitle {
+      font-family: 'Fira Code', Consolas, Monaco, monospace;
+      font-size: 18px;
+      font-weight: 600;
+      fill: #e2e8f0;
+      letter-spacing: 3px;
+      text-anchor: middle;
+    }
+    .badge-text {
+      font-family: 'Fira Code', Consolas, Monaco, monospace;
+      font-size: 12px;
+      font-weight: 700;
+      fill: #00f5d4;
       letter-spacing: 2px;
     }
-    .badge {
-      font-family: 'Fira Code', Consolas, Monaco, monospace;
-      font-size: 13px;
-      fill: #38bdf8;
-      font-weight: 600;
+    .star {
+      animation: twinkle 3s ease-in-out infinite;
     }
-    .grid-line {
-      stroke: #0284c7;
-      stroke-opacity: 0.15;
-      stroke-width: 1;
-    }
-    .pulse-dot {
-      animation: pulse 2s infinite ease-in-out;
-    }
-    @keyframes pulse {
-      0%, 100% { opacity: 0.3; transform: scale(1); }
-      50% { opacity: 1; transform: scale(1.3); }
-    }
-    .wave-path {
-      animation: waveMove 6s ease-in-out infinite alternate;
-    }
-    @keyframes waveMove {
-      0% { transform: translateY(0px); }
-      100% { transform: translateY(-8px); }
+    @keyframes twinkle {
+      0%, 100% { opacity: 0.2; transform: scale(0.8); }
+      50% { opacity: 1; transform: scale(1.4); }
     }
   </style>
 
-  <!-- Background Canvas -->
-  <rect width="850" height="220" rx="16" fill="url(#bgGrad)" />
-  <rect width="848" height="218" x="1" y="1" rx="15" fill="none" stroke="url(#strokeGrad)" stroke-width="2" />
+  <!-- Canvas Background -->
+  <rect width="1000" height="250" rx="18" fill="url(#deepSpaceGrad)" />
+  <rect width="996" height="246" x="2" y="2" rx="17" fill="none" stroke="#00b4d8" stroke-width="1.8" stroke-opacity="0.4" />
 
-  <!-- Background Tech Grid Lines -->
-  <line x1="50" y1="0" x2="50" y2="220" class="grid-line" />
-  <line x1="150" y1="0" x2="150" y2="220" class="grid-line" />
-  <line x1="700" y1="0" x2="700" y2="220" class="grid-line" />
-  <line x1="800" y1="0" x2="800" y2="220" class="grid-line" />
-  <line x1="0" y1="50" x2="850" y2="50" class="grid-line" />
-  <line x1="0" y1="170" x2="850" y2="170" class="grid-line" />
-
-  <!-- Animated Wave Floor -->
-  <g class="wave-path">
-    <path d="M0,190 C150,165 300,215 450,185 C600,155 720,205 850,180 L850,220 L0,220 Z" fill="#00b4d8" fill-opacity="0.18" />
-    <path d="M0,200 C200,180 400,215 600,195 C750,180 800,210 850,195 L850,220 L0,220 Z" fill="#0077b6" fill-opacity="0.3" />
+  <!-- Background Tech Grid Overlay -->
+  <g stroke="#38bdf8" stroke-width="0.7" stroke-opacity="0.12">
+    <line x1="100" y1="0" x2="100" y2="250" />
+    <line x1="300" y1="0" x2="300" y2="250" />
+    <line x1="500" y1="0" x2="500" y2="250" />
+    <line x1="700" y1="0" x2="700" y2="250" />
+    <line x1="900" y1="0" x2="900" y2="250" />
+    <line x1="0" y1="60" x2="1000" y2="60" />
+    <line x1="0" y1="180" x2="1000" y2="180" />
   </g>
 
-  <!-- Decorative Orbit Dots -->
-  <circle cx="90" cy="50" r="3" fill="#00f5d4" class="pulse-dot" />
-  <circle cx="760" cy="170" r="4" fill="#fee440" class="pulse-dot" style="animation-delay: 1s;" />
-  <circle cx="730" cy="65" r="3" fill="#38bdf8" class="pulse-dot" style="animation-delay: 0.5s;" />
+  <!-- Ambient Twinkling Floating Stars -->
+  <circle cx="80" cy="50" r="3" fill="#00f5d4" class="star" style="animation-delay: 0s;" />
+  <circle cx="220" cy="90" r="2" fill="#38bdf8" class="star" style="animation-delay: 1.2s;" />
+  <circle cx="780" cy="55" r="3.5" fill="#fee440" class="star" style="animation-delay: 0.7s;" />
+  <circle cx="920" cy="110" r="2.5" fill="#00f5d4" class="star" style="animation-delay: 1.8s;" />
+  <circle cx="150" cy="170" r="2" fill="#ffffff" class="star" style="animation-delay: 2.2s;" />
+  <circle cx="850" cy="160" r="2.5" fill="#38bdf8" class="star" style="animation-delay: 0.4s;" />
 
-  <!-- Top Status Badge Pill -->
-  <g transform="translate(325, 25)">
-    <rect width="200" height="26" rx="13" fill="#03045e" fill-opacity="0.7" stroke="#00b4d8" stroke-width="1" />
-    <circle cx="16" cy="13" r="4" fill="#00f5d4">
-      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+  <!-- Dynamic Animated Morphing Wave 1 (Back Layer) -->
+  <path fill="url(#waveGrad1)" opacity="0.6">
+    <animate
+      attributeName="d"
+      dur="10s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      values="
+        M0,180 C200,140 400,220 600,170 C800,130 900,200 1000,165 L1000,250 L0,250 Z;
+        M0,160 C250,210 450,140 650,190 C850,220 920,150 1000,185 L1000,250 L0,250 Z;
+        M0,195 C180,150 380,210 580,160 C780,120 890,210 1000,175 L1000,250 L0,250 Z;
+        M0,180 C200,140 400,220 600,170 C800,130 900,200 1000,165 L1000,250 L0,250 Z
+      "
+    />
+  </path>
+
+  <!-- Dynamic Animated Morphing Wave 2 (Middle Layer) -->
+  <path fill="url(#waveGrad2)" opacity="0.65">
+    <animate
+      attributeName="d"
+      dur="8s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      values="
+        M0,200 C250,165 450,225 650,185 C820,150 920,215 1000,190 L1000,250 L0,250 Z;
+        M0,175 C180,225 380,165 600,215 C780,175 880,225 1000,175 L1000,250 L0,250 Z;
+        M0,210 C220,180 420,230 630,190 C840,160 930,220 1000,200 L1000,250 L0,250 Z;
+        M0,200 C250,165 450,225 650,185 C820,150 920,215 1000,190 L1000,250 L0,250 Z
+      "
+    />
+  </path>
+
+  <!-- Dynamic Animated Morphing Wave 3 (Front Vibrant Foam) -->
+  <path fill="url(#waveGrad3)" opacity="0.5">
+    <animate
+      attributeName="d"
+      dur="6s"
+      repeatCount="indefinite"
+      calcMode="spline"
+      keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
+      values="
+        M0,225 C200,195 400,240 600,210 C800,180 900,230 1000,215 L1000,250 L0,250 Z;
+        M0,210 C230,235 430,195 650,230 C830,200 920,240 1000,220 L1000,250 L0,250 Z;
+        M0,230 C180,205 380,245 580,215 C780,185 880,235 1000,225 L1000,250 L0,250 Z;
+        M0,225 C200,195 400,240 600,210 C800,180 900,230 1000,215 L1000,250 L0,250 Z
+      "
+    />
+  </path>
+
+  <!-- Top Active Status Pill -->
+  <g transform="translate(385, 22)">
+    <rect width="230" height="28" rx="14" fill="#020c1b" fill-opacity="0.85" stroke="#00f5d4" stroke-width="1.2" />
+    <circle cx="16" cy="14" r="4.5" fill="#00f5d4">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
+      <animate attributeName="r" values="4.5;6;4.5" dur="1.4s" repeatCount="indefinite" />
     </circle>
-    <text x="30" y="17" class="badge">OPEN TO WORK &amp; COLLAB</text>
+    <text x="32" y="19" class="badge-text">STATUS: OPEN TO HIRE</text>
   </g>
 
-  <!-- Center Titles -->
-  <g text-anchor="middle">
-    <!-- Main Name -->
-    <text x="425" y="115" class="title" filter="url(#glow)">SOUVIK DEY</text>
-    
-    <!-- Subtitle -->
-    <text x="425" y="152" class="subtitle" filter="url(#subtleGlow)">&lt; Full-Stack Web Developer &amp; Software Engineer /&gt;</text>
-  </g>
+  <!-- Centered Name and Subtitle -->
+  <text x="500" y="112" class="name-title" filter="url(#neonGlow)">SOUVIK DEY</text>
+  <text x="500" y="152" class="role-subtitle">⚡ Full-Stack Web Developer &amp; Software Engineer ⚡</text>
 </svg>
