@@ -1,32 +1,18 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. HEADER BANNER (UPGRADED: Self-Hosted Animated SVG, 100% Uptime & No Rate Limits) -->
+<!-- 1. ANIMATED HEADER WAVE BANNER                                            -->
 <!-- ========================================================================= -->
-<a href="https://github.com/souvik-dey-28">
-  <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/header.svg" width="100%" alt="Souvik Dey Header Banner" />
-</a>
-
-<!-- 
-[NOTE: The external capsule-render.vercel.app service is commented out below due to frequent timeouts. Uncomment if you prefer the external version:]
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20Frontend%20%26%20Software%20Engineer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
--->
 
 <br/>
 
 <!-- ========================================================================= -->
-<!-- 2. TYPING ANIMATION (UPGRADED: Self-Hosted Animated Ticker SVG, Permanent) -->
+<!-- 2. TYPING ANIMATION (Self-Hosted Animated Ticker SVG, 100% Reliable)      -->
 <!-- ========================================================================= -->
 <a href="https://github.com/souvik-dey-28">
   <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/typing.svg" width="100%" alt="Typing Animation" />
 </a>
-
-<!-- 
-[NOTE: The external readme-typing-svg service is commented out below. Uncomment if desired:]
-<a href="https://github.com/souvik-dey-28">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Full-Stack+Web+%26+Software+Developer;%E2%9A%9B%EF%B8%8F+React.js+%26+Modern+JavaScript+Craftsman;%F0%9F%9B%A0%EF%B8%8F+Scalable+Node.js+%26+RESTful+APIs;%F0%9F%8C%90+Designing+Sleek%2C+High-Performance+Web+Apps;%E2%9C%A8+Continuous+Learner+%26+Open+Source+Builder" alt="Typing Animation" />
-</a>
--->
 
 <br/><br/>
 
@@ -294,7 +280,9 @@ Always open to discussing software engineering opportunities, open-source projec
 
 <br/><br/>
 
-<!-- Animated Footer Divider -->
-<img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/header.svg" height="40" width="100%" style="opacity: 0.4;" alt="Footer Divider" />
+<!-- ========================================================================= -->
+<!-- ANIMATED FOOTER WAVE BANNER                                               -->
+<!-- ========================================================================= -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
