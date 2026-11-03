@@ -68,10 +68,10 @@
 }
 ```
 
-- 💡 **Passion**: Building responsive, intuitive, and accessible user interfaces paired with robust backends.
-- 🚀 **Frontend Artistry**: Mastering component design with **React.js**, modern CSS architectures, and state management.
-- ⚙️ **Backend Logic**: Architecting RESTful APIs and database schemas with **Node.js, Express, and MongoDB**.
-- 🎓 **Growth Mindset**: Constantly expanding skills in modern full-stack frameworks, microservices, and web optimization.
+- 💡 **Core Specialty**: Full-Stack MERN architectures, responsive UI engineering, and secure RESTful services.
+- 🚀 **Frontend Craft**: Component-driven design in **React.js**, TypeScript, and Tailwind CSS with performance optimization.
+- ⚙️ **Backend & Databases**: REST APIs, authentication pipelines, schema design with **Node.js, Express, and MongoDB**.
+- 🎓 **Engineering Vision**: Building high-availability web applications with clean code, modular architecture, and CI/CD pipelines.
 
 ---
 
@@ -109,7 +109,6 @@
 
 <div align="center">
 
-<!-- Reliable Dynamic GitHub Metrics Grid (Shields.io never 503s or limits) -->
 <table border="0">
   <tr>
     <td align="center">
@@ -181,7 +180,86 @@
 ---
 
 <!-- ========================================================================= -->
-<!-- 6. CONTRIBUTION SNAKE ANIMATION                                          -->
+<!-- 6. FLAGSHIP & MENTOR PROJECTS SHOWCASE                                     -->
+<!-- ========================================================================= -->
+### 💎 Flagship & Mentor-Grade Projects
+
+Production-level full-stack systems focusing on security, performance, and clean architecture:
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛍️ <a href="https://github.com/souvik-dey-28/Electrocart-MERN-Ecommerce">Electrocart MERN Platform</a></h4>
+      <p><b>Architecture:</b> React.js, Node.js, Express, MongoDB, JWT Auth, Redux</p>
+      <ul>
+        <li>Full-featured e-commerce platform with product catalogs, shopping cart, and orders.</li>
+        <li>Secure user authentication, role-based access control, and state management.</li>
+        <li><a href="https://github.com/souvik-dey-28/Payment-Order-Full-Stack-Ecommerce">Payment &amp; Order Processing Engine</a> with payment gateway flow.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik-dey-28/Electrocart-MERN-Ecommerce">
+          <img src="https://img.shields.io/badge/Code-GitHub%20Repo-0077B6?style=flat-square&logo=github" alt="Repo" />
+        </a>
+        <a href="https://souvik-dey-28.github.io/ecommerce-website/">
+          <img src="https://img.shields.io/badge/Live-Interactive%20Demo-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚌 <a href="https://souvik-dey-28.github.io/online-bus-ticket-booking2/">Online Bus Ticket Booking Portal</a></h4>
+      <p><b>Architecture:</b> JavaScript (ES6+), HTML5/CSS3, REST API Architecture</p>
+      <ul>
+        <li>Real-time seat selection system with booking validations and schedule views.</li>
+        <li>Intuitive ticket confirmation flows and clean responsive UI design.</li>
+        <li>Scalable backend routing and booking state persistence.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik-dey-28/online-bus-ticket-booking2">
+          <img src="https://img.shields.io/badge/Code-GitHub%20Repo-0077B6?style=flat-square&logo=github" alt="Repo" />
+        </a>
+        <a href="https://souvik-dey-28.github.io/online-bus-ticket-booking2/">
+          <img src="https://img.shields.io/badge/Live-Interactive%20Demo-brightgreen?style=flat-square&logo=vercel" alt="Live Demo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>📚 <a href="https://github.com/souvik-dey-28/makaut-syllabus-btech">Makaut B.Tech Syllabus Tracker</a></h4>
+      <p><b>Architecture:</b> Web Standards, Resource Mapping, Client-Side Caching</p>
+      <ul>
+        <li>Comprehensive syllabus and subject tracking utility for university students.</li>
+        <li>Structured semester modules, subject outlines, and fast offline navigation.</li>
+      </ul>
+      <p>
+        <a href="https://github.com/souvik-dey-28/makaut-syllabus-btech">
+          <img src="https://img.shields.io/badge/Code-GitHub%20Repo-0077B6?style=flat-square&logo=github" alt="Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🌐 <a href="https://souvikdey.vercel.app/">Modern Web Portfolios &amp; UI Cards</a></h4>
+      <p><b>Architecture:</b> Next.js, React, Tailwind CSS, Vercel &amp; Netlify CI/CD</p>
+      <ul>
+        <li>Deployed production web experiences with 95+ Lighthouse performance scores.</li>
+        <li>Interactive components, custom CSS animations, and instant responsive layouts.</li>
+      </ul>
+      <p>
+        <a href="https://souvikdey.vercel.app/">
+          <img src="https://img.shields.io/badge/Live-souvikdey.vercel.app-black?style=flat-square&logo=vercel" alt="Vercel" />
+        </a>
+        <a href="https://souvik28.netlify.app/">
+          <img src="https://img.shields.io/badge/Live-souvik28.netlify.app-00C7B7?style=flat-square&logo=netlify" alt="Netlify" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+<!-- ========================================================================= -->
+<!-- 7. CONTRIBUTION SNAKE ANIMATION                                          -->
 <!-- ========================================================================= -->
 ### 🐍 Contribution Activity & Snake Animation
 
@@ -196,24 +274,11 @@
 
 ---
 
-### 📌 Selected Projects & Live Demos
-
-| Project | Live Demo / Repo | Stack |
-| :--- | :--- | :--- |
-| 🛍️ **E-Commerce Web Application** | [Live Preview](https://souvik-dey-28.github.io/ecommerce-website/) | React, Node.js, Express, MongoDB |
-| 🚌 **Online Bus Ticket Booking** | [Live Preview](https://souvik-dey-28.github.io/online-bus-ticket-booking2/) | JavaScript, HTML5/CSS3, Booking API |
-| 🌤️ **Weather Details App** | [Live Preview](https://souvik-dey-28.github.io/weather-details/) | REST APIs, Asynchronous JS, Weather API |
-| 📖 **Makaut Syllabus Tracker** | [View Repo](https://github.com/souvik-dey-28/makaut-syllabus-btech) | Web UI, Academic Tools |
-| 🌐 **Personal Portfolio** | [Visit Website](https://souvikdey.vercel.app/) | Next.js / React, Tailwind CSS |
-| 🪪 **Interactive Profile Card** | [Live Preview](https://souvik-dey-28.github.io/profile-card/) | CSS3 Animations, Responsive UI |
-
----
-
 ### 💬 Let's Connect!
 
 <div align="center">
 
-Always interested in collaborating on exciting web projects or discussing technology ideas!
+Always open to discussing software engineering opportunities, open-source projects, and new ideas!
 
 <br/>
 
@@ -229,7 +294,7 @@ Always interested in collaborating on exciting web projects or discussing techno
 
 <br/><br/>
 
-<!-- Animated Footer -->
+<!-- Animated Footer Divider -->
 <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/header.svg" height="40" width="100%" style="opacity: 0.4;" alt="Footer Divider" />
 
 </div>
