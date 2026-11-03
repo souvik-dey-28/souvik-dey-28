@@ -1,172 +1,152 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 250" width="100%" height="250">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 240" width="100%" height="240">
   <defs>
-    <!-- Background Gradient -->
-    <linearGradient id="deepSpaceGrad" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0a192f" />
-      <stop offset="40%" stop-color="#0f2b46" />
-      <stop offset="80%" stop-color="#112240" />
-      <stop offset="100%" stop-color="#020c1b" />
+    <!-- Deep Elegant Midnight Navy Gradient -->
+    <linearGradient id="refinedBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1128" />
+      <stop offset="50%" stop-color="#0e1e38" />
+      <stop offset="100%" stop-color="#070d1e" />
     </linearGradient>
 
-    <!-- Wave Layer 1 Gradient (Deep Teal / Blue) -->
-    <linearGradient id="waveGrad1" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#0077b6" />
-      <stop offset="50%" stop-color="#0096c7" />
-      <stop offset="100%" stop-color="#03045e" />
+    <!-- Wave 1: Deep Sapphire Ocean -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#005082" />
+      <stop offset="50%" stop-color="#0077b6" />
+      <stop offset="100%" stop-color="#023e8a" />
     </linearGradient>
 
-    <!-- Wave Layer 2 Gradient (Vibrant Cyan / Electric Blue) -->
-    <linearGradient id="waveGrad2" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00b4d8" />
-      <stop offset="50%" stop-color="#00f5d4" />
+    <!-- Wave 2: Soft Cyan Foam -->
+    <linearGradient id="wave2" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0096c7" />
+      <stop offset="50%" stop-color="#00b4d8" />
       <stop offset="100%" stop-color="#48cae4" />
     </linearGradient>
 
-    <!-- Wave Layer 3 Gradient (Neon Aqua Highlights) -->
-    <linearGradient id="waveGrad3" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#00f5d4" stop-opacity="0.8" />
-      <stop offset="50%" stop-color="#70e000" stop-opacity="0.7" />
-      <stop offset="100%" stop-color="#00b4d8" stop-opacity="0.8" />
+    <!-- Wave 3: Subtle Aqua Horizon -->
+    <linearGradient id="wave3" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00b4d8" stop-opacity="0.5" />
+      <stop offset="50%" stop-color="#90e0ef" stop-opacity="0.4" />
+      <stop offset="100%" stop-color="#0077b6" stop-opacity="0.5" />
     </linearGradient>
 
-    <!-- Glowing Text Gradient -->
-    <linearGradient id="titleTextGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#ffffff" />
-      <stop offset="35%" stop-color="#00f5d4" />
-      <stop offset="70%" stop-color="#38bdf8" />
-      <stop offset="100%" stop-color="#ffffff" />
+    <!-- Balanced, Medium-Brightness Title Gradient (No harsh glare) -->
+    <linearGradient id="balancedTitleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#cbd5e1" />
+      <stop offset="35%" stop-color="#38bdf8" />
+      <stop offset="70%" stop-color="#67e8f9" />
+      <stop offset="100%" stop-color="#e2e8f0" />
     </linearGradient>
 
-    <!-- Neon Glow Filter -->
-    <filter id="neonGlow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="8" result="blur1" />
-      <feGaussianBlur stdDeviation="3" result="blur2" />
-      <feMerge>
-        <feMergeNode in="blur1" />
-        <feMergeNode in="blur2" />
-        <feMergeNode in="SourceGraphic" />
-      </feMerge>
+    <!-- Soft, Elegant Depth Shadow (Gentle, Not Over-Bright) -->
+    <filter id="softShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#000000" flood-opacity="0.6" />
     </filter>
   </defs>
 
   <style>
     .name-title {
       font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif;
-      font-size: 56px;
-      font-weight: 900;
-      letter-spacing: 6px;
-      fill: url(#titleTextGrad);
+      font-size: 50px;
+      font-weight: 800;
+      letter-spacing: 5px;
+      fill: url(#balancedTitleGrad);
       text-anchor: middle;
+      filter: url(#softShadow);
     }
     .role-subtitle {
       font-family: 'Fira Code', Consolas, Monaco, monospace;
-      font-size: 18px;
-      font-weight: 600;
-      fill: #e2e8f0;
-      letter-spacing: 3px;
+      font-size: 16px;
+      font-weight: 500;
+      fill: #94a3b8;
+      letter-spacing: 2.5px;
       text-anchor: middle;
     }
     .badge-text {
       font-family: 'Fira Code', Consolas, Monaco, monospace;
-      font-size: 12px;
-      font-weight: 700;
-      fill: #00f5d4;
-      letter-spacing: 2px;
+      font-size: 11.5px;
+      font-weight: 600;
+      fill: #38bdf8;
+      letter-spacing: 1.5px;
     }
-    .star {
-      animation: twinkle 3s ease-in-out infinite;
+    .ambient-dot {
+      animation: subtlePulse 4s ease-in-out infinite;
     }
-    @keyframes twinkle {
-      0%, 100% { opacity: 0.2; transform: scale(0.8); }
-      50% { opacity: 1; transform: scale(1.4); }
+    @keyframes subtlePulse {
+      0%, 100% { opacity: 0.2; transform: scale(0.9); }
+      50% { opacity: 0.6; transform: scale(1.1); }
     }
   </style>
 
-  <!-- Canvas Background -->
-  <rect width="1000" height="250" rx="18" fill="url(#deepSpaceGrad)" />
-  <rect width="996" height="246" x="2" y="2" rx="17" fill="none" stroke="#00b4d8" stroke-width="1.8" stroke-opacity="0.4" />
+  <!-- Canvas Box -->
+  <rect width="1000" height="240" rx="16" fill="url(#refinedBg)" />
+  <rect width="996" height="236" x="2" y="2" rx="15" fill="none" stroke="#00b4d8" stroke-width="1.2" stroke-opacity="0.25" />
 
-  <!-- Background Tech Grid Overlay -->
-  <g stroke="#38bdf8" stroke-width="0.7" stroke-opacity="0.12">
-    <line x1="100" y1="0" x2="100" y2="250" />
-    <line x1="300" y1="0" x2="300" y2="250" />
-    <line x1="500" y1="0" x2="500" y2="250" />
-    <line x1="700" y1="0" x2="700" y2="250" />
-    <line x1="900" y1="0" x2="900" y2="250" />
-    <line x1="0" y1="60" x2="1000" y2="60" />
-    <line x1="0" y1="180" x2="1000" y2="180" />
-  </g>
+  <!-- Subtle Ambient Particles -->
+  <circle cx="120" cy="55" r="2.5" fill="#38bdf8" class="ambient-dot" style="animation-delay: 0s;" />
+  <circle cx="880" cy="65" r="2.5" fill="#67e8f9" class="ambient-dot" style="animation-delay: 1.5s;" />
+  <circle cx="200" cy="110" r="1.8" fill="#cbd5e1" class="ambient-dot" style="animation-delay: 2.5s;" />
+  <circle cx="820" cy="120" r="2" fill="#38bdf8" class="ambient-dot" style="animation-delay: 0.8s;" />
 
-  <!-- Ambient Twinkling Floating Stars -->
-  <circle cx="80" cy="50" r="3" fill="#00f5d4" class="star" style="animation-delay: 0s;" />
-  <circle cx="220" cy="90" r="2" fill="#38bdf8" class="star" style="animation-delay: 1.2s;" />
-  <circle cx="780" cy="55" r="3.5" fill="#fee440" class="star" style="animation-delay: 0.7s;" />
-  <circle cx="920" cy="110" r="2.5" fill="#00f5d4" class="star" style="animation-delay: 1.8s;" />
-  <circle cx="150" cy="170" r="2" fill="#ffffff" class="star" style="animation-delay: 2.2s;" />
-  <circle cx="850" cy="160" r="2.5" fill="#38bdf8" class="star" style="animation-delay: 0.4s;" />
-
-  <!-- Dynamic Animated Morphing Wave 1 (Back Layer) -->
-  <path fill="url(#waveGrad1)" opacity="0.6">
+  <!-- Animated Morphing Wave 1 (Deep Navy Layer) -->
+  <path fill="url(#wave1)" opacity="0.45">
     <animate
       attributeName="d"
-      dur="10s"
+      dur="12s"
       repeatCount="indefinite"
       calcMode="spline"
       keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
       values="
-        M0,180 C200,140 400,220 600,170 C800,130 900,200 1000,165 L1000,250 L0,250 Z;
-        M0,160 C250,210 450,140 650,190 C850,220 920,150 1000,185 L1000,250 L0,250 Z;
-        M0,195 C180,150 380,210 580,160 C780,120 890,210 1000,175 L1000,250 L0,250 Z;
-        M0,180 C200,140 400,220 600,170 C800,130 900,200 1000,165 L1000,250 L0,250 Z
+        M0,175 C200,145 400,215 600,170 C800,135 900,195 1000,165 L1000,240 L0,240 Z;
+        M0,160 C250,205 450,145 650,190 C850,215 920,155 1000,180 L1000,240 L0,240 Z;
+        M0,190 C180,155 380,205 580,165 C780,130 890,205 1000,175 L1000,240 L0,240 Z;
+        M0,175 C200,145 400,215 600,170 C800,135 900,195 1000,165 L1000,240 L0,240 Z
       "
     />
   </path>
 
-  <!-- Dynamic Animated Morphing Wave 2 (Middle Layer) -->
-  <path fill="url(#waveGrad2)" opacity="0.65">
+  <!-- Animated Morphing Wave 2 (Middle Cyan Layer) -->
+  <path fill="url(#wave2)" opacity="0.4">
     <animate
       attributeName="d"
-      dur="8s"
+      dur="9s"
       repeatCount="indefinite"
       calcMode="spline"
       keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
       values="
-        M0,200 C250,165 450,225 650,185 C820,150 920,215 1000,190 L1000,250 L0,250 Z;
-        M0,175 C180,225 380,165 600,215 C780,175 880,225 1000,175 L1000,250 L0,250 Z;
-        M0,210 C220,180 420,230 630,190 C840,160 930,220 1000,200 L1000,250 L0,250 Z;
-        M0,200 C250,165 450,225 650,185 C820,150 920,215 1000,190 L1000,250 L0,250 Z
+        M0,195 C250,165 450,220 650,185 C820,155 920,210 1000,190 L1000,240 L0,240 Z;
+        M0,175 C180,220 380,165 600,210 C780,175 880,220 1000,175 L1000,240 L0,240 Z;
+        M0,205 C220,180 420,225 630,190 C840,165 930,215 1000,195 L1000,240 L0,240 Z;
+        M0,195 C250,165 450,220 650,185 C820,155 920,210 1000,190 L1000,240 L0,240 Z
       "
     />
   </path>
 
-  <!-- Dynamic Animated Morphing Wave 3 (Front Vibrant Foam) -->
-  <path fill="url(#waveGrad3)" opacity="0.5">
+  <!-- Animated Morphing Wave 3 (Front Soft Shimmer) -->
+  <path fill="url(#wave3)" opacity="0.35">
     <animate
       attributeName="d"
-      dur="6s"
+      dur="7s"
       repeatCount="indefinite"
       calcMode="spline"
       keySplines="0.4 0 0.2 1; 0.4 0 0.2 1; 0.4 0 0.2 1"
       values="
-        M0,225 C200,195 400,240 600,210 C800,180 900,230 1000,215 L1000,250 L0,250 Z;
-        M0,210 C230,235 430,195 650,230 C830,200 920,240 1000,220 L1000,250 L0,250 Z;
-        M0,230 C180,205 380,245 580,215 C780,185 880,235 1000,225 L1000,250 L0,250 Z;
-        M0,225 C200,195 400,240 600,210 C800,180 900,230 1000,215 L1000,250 L0,250 Z
+        M0,215 C200,190 400,230 600,205 C800,180 900,225 1000,210 L1000,240 L0,240 Z;
+        M0,205 C230,225 430,190 650,225 C830,195 920,230 1000,215 L1000,240 L0,240 Z;
+        M0,220 C180,200 380,235 580,210 C780,185 880,225 1000,220 L1000,240 L0,240 Z;
+        M0,215 C200,190 400,230 600,205 C800,180 900,225 1000,210 L1000,240 L0,240 Z
       "
     />
   </path>
 
-  <!-- Top Active Status Pill -->
-  <g transform="translate(385, 22)">
-    <rect width="230" height="28" rx="14" fill="#020c1b" fill-opacity="0.85" stroke="#00f5d4" stroke-width="1.2" />
-    <circle cx="16" cy="14" r="4.5" fill="#00f5d4">
-      <animate attributeName="opacity" values="1;0.2;1" dur="1.4s" repeatCount="indefinite" />
-      <animate attributeName="r" values="4.5;6;4.5" dur="1.4s" repeatCount="indefinite" />
+  <!-- Top Status Pill -->
+  <g transform="translate(390, 22)">
+    <rect width="220" height="26" rx="13" fill="#070e1c" fill-opacity="0.9" stroke="#0284c7" stroke-width="1" stroke-opacity="0.5" />
+    <circle cx="16" cy="13" r="4" fill="#38bdf8">
+      <animate attributeName="opacity" values="0.9;0.3;0.9" dur="1.8s" repeatCount="indefinite" />
     </circle>
-    <text x="32" y="19" class="badge-text">STATUS: OPEN TO HIRE</text>
+    <text x="30" y="17" class="badge-text">OPEN FOR OPPORTUNITIES</text>
   </g>
 
-  <!-- Centered Name and Subtitle -->
-  <text x="500" y="112" class="name-title" filter="url(#neonGlow)">SOUVIK DEY</text>
-  <text x="500" y="152" class="role-subtitle">⚡ Full-Stack Web Developer &amp; Software Engineer ⚡</text>
+  <!-- Centered Name and Subtitle (Medium Brightness, Refined) -->
+  <text x="500" y="108" class="name-title">SOUVIK DEY</text>
+  <text x="500" y="145" class="role-subtitle">&lt; Full-Stack Web Developer &amp; Software Engineer /&gt;</text>
 </svg>

@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- ========================================================================= -->
-<!-- 1. VIBRANT ANIMATED HEADER WAVE BANNER (Self-Hosted SVG, 100% Reliable)   -->
+<!-- 1. HEADER BANNER (Refined Medium Brightness, High-Contrast Waving SVG)    -->
 <!-- ========================================================================= -->
 <a href="https://github.com/souvik-dey-28">
   <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/header.svg" width="100%" alt="Souvik Dey Header Banner" />
@@ -283,10 +283,8 @@ Always open to discussing software engineering opportunities, open-source projec
 <br/><br/>
 
 <!-- ========================================================================= -->
-<!-- ANIMATED FOOTER WAVE BANNER (Self-Hosted SVG, 100% Reliable)              -->
+<!-- ANIMATED FOOTER WAVE BANNER (Restored Classic Organic Wave)               -->
 <!-- ========================================================================= -->
-<a href="https://github.com/souvik-dey-28">
-  <img src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/main/assets/footer.svg" width="100%" alt="Footer Wave Banner" />
-</a>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=120&section=footer" width="100%" alt="Footer Banner" />
 
 </div>
