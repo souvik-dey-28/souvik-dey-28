@@ -1,145 +1,170 @@
+<div align="center">
 
-[![An image of @souvikdey28's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/souvikdey28)](https://holopin.io/@souvikdey28)
+<!-- Animated Header Wave Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=220&section=header&text=Souvik%20Dey&fontSize=70&fontAlignY=38&animation=twinkling&desc=Full-Stack%20Web%20Developer%20%7C%20Frontend%20%26%20Software%20Engineer&descAlignY=62&descSize=20&theme=dark" width="100%" alt="Header Banner" />
 
-<p align="right">
-  <a href="https://github.com">
-    <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" 
-         alt="souvik-dey-28 trophies" 
-         width="400" 
-         align="right" />
-  </a>
-</p>
+<!-- Dynamic Typing SVG Animation -->
+<a href="https://github.com/souvik-dey-28">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=1000&color=00D4FF&center=true&vCenter=true&width=620&lines=%F0%9F%9A%80+Full-Stack+Web+%26+Software+Developer;%E2%9A%9B%EF%B8%8F+React.js+%26+Modern+JavaScript+Craftsman;%F0%9F%9B%A0%EF%B8%8F+Scalable+Node.js+%26+RESTful+APIs;%F0%9F%8C%90+Designing+Sleek%2C+High-Performance+Web+Apps;%E2%9C%A8+Continuous+Learner+%26+Open+Source+Builder" alt="Typing Animation" />
+</a>
 
-- 🔭 I’m currently working on **Desktop Apps** 💻
-- 🌱 I’m currently learning **.NET Framework** 🚀
-- 👯 I’m looking to collaborate on **Development Projects** 🤝
-- 🤔 I’m looking for help with **Open Source Contributions** 🌐
-- 💬 Ask me about **Code and Software Development** 🗣️
-- 📫 How to reach me: [**Visit my Website**](https://souvikdey.vercel.app/) 🌍
-- 😄 Pronouns: **He / Him** 👦
-- ⚡ Fun fact: **I absolutely love cats!** 🐈🐾
+<br/><br/>
 
-<br clear="right"/>
+<!-- Holopin Badges -->
+<a href="https://holopin.io/@souvikdey28" target="_blank">
+  <img src="https://holopin.me/souvikdey28" alt="Holopin Badges" height="110" />
+</a>
 
+<br/><br/>
 
-<!--
+<!-- Badges & Quick Links -->
+[![Email Badge](https://img.shields.io/badge/Email-deysouvik123456%40gmail.com-0077B6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deysouvik123456@gmail.com)
+[![Portfolio Website](https://img.shields.io/badge/Portfolio-souvikdey.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://souvikdey.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Souvik%20Dey-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/souvik-dey-75892b260)
+[![Twitter / X](https://img.shields.io/badge/X-Follow%20%40SouvikDey28-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SouvikDey28)
+[![Resume](https://img.shields.io/badge/Resume-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk)
+[![GitHub Followers](https://img.shields.io/github/followers/souvik-dey-28?label=Followers&style=for-the-badge&color=181717&logo=github)](https://github.com/souvik-dey-28)
+[![Profile Views](https://komarev.com/ghpvc/?username=souvik-dey-28&color=0077b6&style=for-the-badge&label=VISITOR+COUNT)](https://github.com/souvik-dey-28)
 
-https://souvik28.netlify.app/
+</div>
 
+---
 
-souvikdey-cyber-portfolio.lovable.app
+### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="60%">
-
-### Hello World! 👋
-- 🔭 I’m currently working on **Desktop Apps**
-- 🌱 I’m currently learning **.NET**
-- 👯 I’m looking to collaborate on **Dev projects**
-- 🤔 I’m looking for help with **Open Source**
-- 💬 Ask me about **Code and Developing**
-- 📫 How to reach me: [My Website](https://souvikdey.vercel.app/)
-- 😄 Pronouns: **He/Him**
-- ⚡ Fun fact: **I love cats** 🐈
-
-    </td>
-    <td valign="top" align="right" width="40%">
-      <a href="https://github.com">
-        <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" alt="trophy" style="max-width: 100%;" />
-      </a>
-    </td>
-  </tr>
-</table>  -->
-
-
-
-<!--
-https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=light
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=light)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15)](https://github.com)
-
-
-- <p align="right">
-  <a href="https://github.com">
-    <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&column=3&margin-w=15&margin-h=15" alt="trophy" width="100%" style="max-width: 420px;" />
-  </a>
-</p>
-
-
--->
-```text
-https://souvikdey.vercel.app/
+```json
+{
+  "name": "Souvik Dey",
+  "role": "Full-Stack Web & Software Developer",
+  "location": "India",
+  "email": "deysouvik123456@gmail.com",
+  "portfolios": [
+    "https://souvikdey.vercel.app/",
+    "https://souvik28.netlify.app/",
+    "https://souvikdey-cyber-portfolio.lovable.app"
+  ],
+  "pronouns": "He / Him",
+  "fun_fact": "I fear dogs 🐶, absolutely love cats 🐱, and consider myself curious & tech-obsessed!"
+}
 ```
 
+- 💡 **Passion**: Building responsive, intuitive, and accessible user interfaces paired with robust backends.
+- 🚀 **Frontend Artistry**: Mastering component design with **React.js**, modern CSS architectures, and state management.
+- ⚙️ **Backend Logic**: Architecting RESTful APIs and database schemas with **Node.js, Express, and MongoDB**.
+- 🎓 **Growth Mindset**: Constantly expanding skills in modern full-stack frameworks, microservices, and web optimization.
 
-  
-<h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
-<h3 align="center">A passionate frontend developer from India.</h3>
+---
 
-<img align="right" alt="coding" width="498" src="https://lh3.googleusercontent.com/FCTJV2u4ETqtkvFn0I1fY184UbdpWhqpAyyV6w7732ookhFnbAF_gBaWMNfAw28z_GhVeZmQIY7jbUuDlFEjWWv6ldLe7FvrJg4=w932">
+### 🧰 Tech Stack & Skills
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile%20views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p>
+<div align="center">
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p> -->
+#### 🎨 Frontend Development
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,bootstrap,sass&theme=dark" alt="Frontend" />
+</a>
 
- <p align="left"> <a href="https://x.com/SouvikDey28?t=O62RjkHLtDgdKh8I4_Z4oA&s=09" alt="souvikDey28" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [ECOMMERCE WEBSITE](https://souvik-dey-28.github.io/ecommerce-website/)
+#### 🔌 Backend & Databases
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,sqlite,postman,firebase&theme=dark" alt="Backend & DB" />
+</a>
 
-- 🌱 I’m currently learning **FONTEND AND BACKEND**
+<br/>
 
-- 👯 I’m looking to collaborate on [ONLINE BUS TICKET BOOKING](https://souvik-dey-28.github.io/online-bus-ticket-booking2/)
+#### 💻 Programming & Tools
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=py,c,cpp,git,github,vscode,figma,powershell&theme=dark" alt="Tools" />
+</a>
 
-- 🤝 I’m looking for help with [weather information](https://souvik-dey-28.github.io/weather-details/)
+</div>
 
-- 👨‍💻 All of my projects are available at GITHUB [https://souvik-dey-28.github.io/personal-portfolio-souvikdey/](https://souvik-dey-28.github.io/personal-portfolio-souvikdey/)
+---
 
-- 📝 I regularly write articles on [https://souvik-dey-28.github.io/profile-card/](https://souvik-dey-28.github.io/profile-card/)
+### 🐍 Contribution Activity & Snake Animation
 
-- 💬 Ask me about **HTML, CSS, JS, C, C++, KOTLIN, PYTHON,**
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/souvik-dey-28/souvik-dey-28/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+</div>
 
-- 📫 How to reach me **deysouvik023@gmail.com**
+---
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk](https://drive.google.com/file/d/131resJOtvLxYUVoRXNB5C7qew9cM6-Bq/view?usp=drivesdk)
+### 📈 GitHub Analytics & Stats
 
-- ⚡ Fun fact **I fear dogs🐶, and I love cats😺😻, I THINK I AM INTELIGENT BUT LITTLE BIT LAZY😅😅😁👍😉🤞**
+<div align="center">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/souvikd07705410" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="SouvikDey28" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/souvik-dey-75892b260" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="souvik-dey-75892b260" height="30" width="40" /></a>
-<a href="https://instagram.com/souvik_dey_28/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="souvik_dey_28/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/deysouvik2812" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="deysouvik2812" height="30" width="40" /></a>
-</p>
+<table border="0">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=souvik-dey-28&show_icons=true&theme=radical&hide_border=false&border_radius=10&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF&text_color=FFFFFF&bg_color=0d1117" width="100%" alt="Souvik's GitHub Stats" />
+    </td>
+    <td align="center" width="50%">
+      <img src="https://streak-stats.demolab.com/?user=souvik-dey-28&theme=radical&hide_border=false&border_radius=10&border=00D4FF&stroke=00D4FF&ring=00D4FF&fire=00D4FF&currStreakLabel=00D4FF" width="100%" alt="Souvik's GitHub Streak" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souvik-dey-28&layout=compact&theme=radical&hide_border=false&border_radius=10&border_color=00D4FF&title_color=00D4FF&text_color=FFFFFF&bg_color=0d1117" width="80%" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+<br/>
 
-# Hi 👋, I'm Souvik Dey
+<!-- Animated Activity Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souvik-dey-28&theme=react-dark&bg_color=0d1117&color=00D4FF&line=00D4FF&point=FFFFFF&area=true&hide_border=false&border_radius=10" width="95%" alt="Souvik's Activity Graph" />
 
-### A passionate developer
+</div>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik-dey-28&label=Profile views&color=0e75b6&style=flat" alt="souvik-dey-28" /> </p> -->
+---
 
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28" alt="souvik-dey-28" /></a> </p> -->
+### 🏆 Achievements & Badges
 
-- 📫 How to reach me **deysouvik123456@gmail.com**  
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=souvik-dey-28&theme=radical&no-frame=false&no-bg=false&margin-w=4" width="95%" alt="GitHub Trophies" />
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/souvik-dey-28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="souvik-dey-28" height="30" width="40" /></a>
-</p>
+---
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+### 📌 Selected Projects & Live Demos
 
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/anaconda" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=anaconda" alt="anaconda" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/angular" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=angular" alt="angular" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bash" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bash" alt="bash" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/blender" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=blender" alt="blender" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/c" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=c" alt="c" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/cplusplus" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=cpp" alt="cplusplus" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/docker" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=docker" alt="docker" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ember" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ember" alt="ember" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/firebase" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=firebase" alt="firebase" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/flask" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=flask" alt="flask" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/huggingface" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/huggingface" alt="huggingface" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/jupyter" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kubernetes" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kubernetes" alt="kubernetes" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/laravel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=laravel" alt="laravel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/linux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=linux" alt="linux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/materialize" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/matlab" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=matlab" alt="matlab" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/ollama" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/ollama" alt="ollama" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/opencv" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=opencv" alt="opencv" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/oracle" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postman" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postman" alt="postman" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/redux" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=redux" alt="redux" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/rust" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=rust" alt="rust" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sass" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=sass" alt="sass" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/spring" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=spring" alt="spring" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/streamlit" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" alt="streamlit" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/svelte" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=svelte" alt="svelte" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tailwind" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/tensorflow" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=tensorflow" alt="tensorflow" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/vuejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=vue" alt="vuejs" width="40" height="40"/> </a></p>
+| Project | Live Demo / Repo | Stack |
+| :--- | :--- | :--- |
+| 🛍️ **E-Commerce Web Application** | [Live Preview](https://souvik-dey-28.github.io/ecommerce-website/) | React, Node.js, Express, MongoDB |
+| 🚌 **Online Bus Ticket Booking** | [Live Preview](https://souvik-dey-28.github.io/online-bus-ticket-booking2/) | JavaScript, HTML5/CSS3, Booking API |
+| 🌤️ **Weather Details App** | [Live Preview](https://souvik-dey-28.github.io/weather-details/) | REST APIs, Asynchronous JS, Weather API |
+| 📖 **Makaut Syllabus Tracker** | [View Repo](https://github.com/souvik-dey-28/makaut-syllabus-btech) | Web UI, Academic Tools |
+| 🌐 **Personal Portfolio** | [Visit Website](https://souvikdey.vercel.app/) | Next.js / React, Tailwind CSS |
+| 🪪 **Interactive Profile Card** | [Live Preview](https://souvik-dey-28.github.io/profile-card/) | CSS3 Animations, Responsive UI |
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souvik-dey-28&show_icons=true&locale=en&layout=compact" alt="souvik-dey-28" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souvik-dey-28&show_icons=true&locale=en" alt="souvik-dey-28" /></p>
+### 💬 Let's Connect!
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souvik-dey-28&" alt="souvik-dey-28" /></p> -->
+<div align="center">
 
+Always interested in collaborating on exciting web projects or discussing technology ideas!
+
+<br/>
+
+<a href="mailto:deysouvik123456@gmail.com">
+  <img src="https://img.shields.io/badge/Direct%20Email-deysouvik123456%40gmail.com-00D4FF?style=for-the-badge&logo=gmail&logoColor=000000" alt="Direct Email" />
+</a>
+<a href="https://linkedin.com/in/souvik-dey-75892b260">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="https://github.com/souvik-dey-28">
+  <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile" />
+</a>
+
+<br/><br/>
+
+<!-- Animated Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,10,18&height=120&section=footer" width="100%" alt="Footer Banner" />
+
+</div>
